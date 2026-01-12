@@ -13,4 +13,4 @@ def addnum(a: int, b: int) -> int:
 @mcp.resource("greeting://{name}")
 def get_greeting(name: str) -> str:
     """Get a personalized greeting"""
-    return f"Hello, {name}!"
+    return f"Hello there !! , {name}!"
